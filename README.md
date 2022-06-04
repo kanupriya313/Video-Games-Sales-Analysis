@@ -31,21 +31,21 @@ After cleaning the data, the final cleaned dataset had 16537 observations and 10
 
 ## Valuable Information
 From the dashboard and the analysis in Python, the following information was obtained:
-•	Total sales of video games worldwide from 1998 to 2020 was $ 8.91K Millions.
-•	North America ranked first in terms of video games sales with a proportion of 48.16%, while Europe ranked second with 28.15%
-•	The golden years, when sales were maximum, were 2007, 1998 and 2011 for North America, Europe, and Japan respectively.
-•	From 1998 to 2020, the top 4 genres were Action, Sports, Shooter, and Role-Playing. 
-•	From 1998 to 2020, Action was the most favourite Genre in North America, Europe, and other regions, however, from the last decade, the genre ‘Shooter’ was the most popular one in North America, Japan, and other regions.
-•	Among the most popular genres, Action and Shooter, the most sellable games were ‘Grand Theft Auto V’ and ‘Wii Sports’ respectively. 
-•	In the period of 22 years, the most popular platforms were PS2, PS3 and X360. However, when new consoles were developed, then in the last decade the popularity of PS4 also increased.
-•	Among the top publishers, Nintendo, Electronic Arts, Activison, and Sony Computer Entertainments were on the top. 
-•	However, these top publishers were more focused in Sports games, while in Action genre they were not on the top list.
-•	The bottom 5 genres include strategy, adventure, puzzle, fighting and simulation. While platforms like Dc, WS, N64 and publishers like Boost On, and Ascaron Entertainment were the least popular with around $0.01 Million sales worldwide.
+* Total sales of video games worldwide from 1998 to 2020 was $ 8.91K Millions.
+* North America ranked first in terms of video games sales with a proportion of 48.16%, while Europe ranked second with 28.15%
+* The golden years, when sales were maximum, were 2007, 1998 and 2011 for North America, Europe, and Japan respectively.
+* From 1998 to 2020, the top 4 genres were Action, Sports, Shooter, and Role-Playing. 
+* From 1998 to 2020, Action was the most favourite Genre in North America, Europe, and other regions, however, from the last decade, the genre ‘Shooter’ was the most popular one in North America, Japan, and other regions.
+* Among the most popular genres, Action and Shooter, the most sellable games were ‘Grand Theft Auto V’ and ‘Wii Sports’ respectively. 
+* In the period of 22 years, the most popular platforms were PS2, PS3 and X360. However, when new consoles were developed, then in the last decade the popularity of PS4 also increased.
+* Among the top publishers, Nintendo, Electronic Arts, Activison, and Sony Computer Entertainments were on the top. 
+* However, these top publishers were more focused in Sports games, while in Action genre they were not on the top list.
+* The bottom 5 genres include strategy, adventure, puzzle, fighting and simulation. While platforms like Dc, WS, N64 and publishers like Boost On, and Ascaron Entertainment were the least popular with around $0.01 Million sales worldwide.
 Conclusion and Recommendation
 From our analysis about sales in video games, the following includes the conclusion and recommendations:
-•	To start a business in video gaming industry, one should target the video game loveable regions like North America and Europe.
-•	PlayStations are one the most popular platforms, so similar gaming platforms should be developed.
-•	More focus should be given on Action and Sports games, as they were the most popular genres.
-•	For the organization who are already in this industry, the most popular publishers like Nintendo, Electronic Arts and Sony Entertainment, should focus more on developing action games, to increase their sales.
+* To start a business in video gaming industry, one should target the video game loveable regions like North America and Europe.
+* PlayStations are one the most popular platforms, so similar gaming platforms should be developed.
+* More focus should be given on Action and Sports games, as they were the most popular genres.
+* For the organization who are already in this industry, the most popular publishers like Nintendo, Electronic Arts and Sony Entertainment, should focus more on developing action games, to increase their sales.
 Not everyone has a similar taste in video games, but these results will be beneficial for the businesspersons in improving both sales and customer satisfaction. Also, the analysis will be useful in addressing the plans for improving the next version of the game.
 

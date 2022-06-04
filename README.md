@@ -25,9 +25,9 @@ Normality was also checked by categorizing the companies into big and small comp
 After cleaning the data, the final cleaned dataset had 16537 observations and 10 columns.
 
 ## More about data
-•	It has been found that games’ names were all unique and acted as primary key in our dataset. Also, only 8 platforms (PS2, DS, PS3, Wii, X360, PSP, PS, PC) were un-rare and their proportion is 70% and among all the years only 8 years (2007, 2009, 2008, 2010, 2011, 2006, 2005, 2002) were un-rare and repeated many times in the dataset. It means that most of the data observations densely concentrate on these few labels (8 for Platform and 8 for Year).
-•	There was a strong correlation between sales in North America and Global Sales, indicating that North America was the greatest contributor in Global Sales.
-•	From chi-square, the Genre and Platform observed to be associated with each other.
+*	It has been found that games’ names were all unique and acted as primary key in our dataset. Also, only 8 platforms (PS2, DS, PS3, Wii, X360, PSP, PS, PC) were un-rare and their proportion is 70% and among all the years only 8 years (2007, 2009, 2008, 2010, 2011, 2006, 2005, 2002) were un-rare and repeated many times in the dataset. It means that most of the data observations densely concentrate on these few labels (8 for Platform and 8 for Year).
+* There was a strong correlation between sales in North America and Global Sales, indicating that North America was the greatest contributor in Global Sales.
+* From chi-square, the Genre and Platform observed to be associated with each other.
 
 ## Valuable Information
 From the dashboard and the analysis in Python, the following information was obtained:

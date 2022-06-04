@@ -47,5 +47,6 @@ From our analysis about sales in video games, the following includes the conclus
 * PlayStations are one the most popular platforms, so similar gaming platforms should be developed.
 * More focus should be given on Action and Sports games, as they were the most popular genres.
 * For the organization who are already in this industry, the most popular publishers like Nintendo, Electronic Arts and Sony Entertainment, should focus more on developing action games, to increase their sales.
+
 Not everyone has a similar taste in video games, but these results will be beneficial for the businesspersons in improving both sales and customer satisfaction. Also, the analysis will be useful in addressing the plans for improving the next version of the game.
 
